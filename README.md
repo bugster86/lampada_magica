@@ -5,10 +5,10 @@ ARDUINO:  fa lampeggiare i 3 led se tocchi il sensore capacitivo per più di 3 s
 
 ![schema](https://github.com/bugster86/lampada_magica/blob/main/lampada%20magica.png)
 
-## [Lista Materiale] Lista materiale
+## Lista materiale
 ![schema](https://github.com/bugster86/lampada_magica/blob/main/lista%20materiali.png)
 
-## [Collegamenti con arduino] Collegamenti con arduino
+## Collegamenti con arduino
 
 - Dal pin GND di arduino collegare un filo fino alla prima colonna "-" (meno della breadboard) .
 - Dalla prima colonna "-" (meno) della breadboard collegare la seconda colonna "-" (meno) .
