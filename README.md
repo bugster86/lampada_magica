@@ -6,7 +6,7 @@ ARDUINO: makes the 3 LEDs flash if you touch the capacitive sensor for more than
 ! [diagram] (https://github.com/bugster86/lampada_magica/blob/main/lampada%20magica.png)
 
 ## Material list
-! [diagram] (https://github.com/bugster86/lampada_magica/blob/main/lista%20materiali.png)
+! [diagram] (https://github.com/bugster86/lampada_magica/blob/main/lista%20materiali.png) 
 
 ## Links with arduino
 
